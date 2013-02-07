@@ -3,9 +3,9 @@
 	margin: 0px;
 	border: 1px solid #333;
 	color: #f00;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 1.2em;
-}
+	padding: 0;
 
 #header {
 	width: 100%;
