@@ -4,10 +4,11 @@
 	border: 1px solid #333;
 	color: #f00;
 	font-size: 12px;
+	line-height: 1.2em;
 }
 
 #header {
 	width: 100%;
 	margin: 0px;
-        border: none;
+        border: 1px solid #345;
 }
