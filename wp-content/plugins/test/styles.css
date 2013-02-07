@@ -10,5 +10,6 @@
 #header {
 	width: 100%;
 	margin: 0px;
-        border: 1px solid #345;
+    border: 1px solid #345;
+	height: 12px;
 }
